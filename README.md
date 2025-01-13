@@ -4,11 +4,25 @@
   Hey there, Deepak Akash here
 </h1>
 
-<h3>Your friendly neighborhood AI enthusiast, passionate about coding, problem-solving, and exploring uncharted technologies.</h3> <br/>
+<h3>Your friendly neighborhood AI enthusiast, passionate about coding, problem-solving, and exploring uncharted technologies.</h3>
+<br/>
 
+<div align="center">
+  
+<a href="https://instagram.com/https://www.instagram.com/made.by_aki/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" target="_blank"/>
+<a/>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aki-strives/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" target="_blank"/>
+<a/>
+<a href="https://x.com/https://x.com/Shay_Mcgee07">
+  <img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white" target="_blank"/>
+<a/>
+<a href="https://youtube.com/@https://www.youtube.com/@ijuststartedgaming9789">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white" target="_blank"/>
+<a/>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/made.by_aki/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aki-strives/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Shay_Mcgee07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ijuststartedgaming9789) 
 <br/>
 
 
