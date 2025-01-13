@@ -8,6 +8,7 @@
 <br/>
 
 <div align="center">
+<h3>Connect With Me </h3>
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/made.by_aki?igsh=ZHp5end6Y3Jxc2kx) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:deepak.akash055@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aki-strives/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Shay_Mcgee07)    
 
