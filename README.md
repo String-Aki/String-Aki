@@ -2,7 +2,7 @@
 
 <h1 align="center">
   Hey there, Deepak Akash here
-</h1>
+</h1><br/>
 
 <h3 align="center">Your friendly neighborhood AI enthusiast, passionate about coding, problem-solving, and exploring uncharted technologies.</h3>
 <br/>
